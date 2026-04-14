@@ -1,0 +1,8 @@
+hyena,Kamari
+bear,Yogi
+lion,Nala
+tiger,Rajah
+bear,Baloo
+lion,Simba
+tiger,ShereKhan
+hyena,Zuri

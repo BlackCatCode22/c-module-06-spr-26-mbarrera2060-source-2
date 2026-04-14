@@ -1,0 +1,16 @@
+Bear Habitat:
+Be01: Baloo; birth date 2018-12-15; brown color; male; 600 pounds; from Yellowstone National Park, USA; arrived 2024-03-05
+Be02: Yogi; birth date 2016-09-15; black color; male; 700 pounds; from Banff National Park, Canada; arrived 2024-03-05
+
+Hyena Habitat:
+Hy01: Zuri; birth date 2023-03-15; tan color; female; 70 pounds; from Friguia Park Tunisia; arrived 2024-03-05
+Hy02: Kamari; birth date 2021-06-15; spotted color; female; 68 pounds; from Etosha National Park, Namibia; arrived 2024-03-05
+
+Lion Habitat:
+Li01: Simba; birth date 2020-06-15; golden color; male; 420 pounds; from Serengeti National Park, Tanzania; arrived 2024-03-05
+Li02: Nala; birth date 2019-03-15; tan color; male; 450 pounds; from Maasai Mara, Kenya; arrived 2024-03-05
+
+Tiger Habitat:
+Ti01: ShereKhan; birth date 2022-09-15; orange color; female; 310 pounds; from Ranthambore Reserve, India; arrived 2024-03-05
+Ti02: Rajah; birth date 2022-12-15; white color; female; 290 pounds; from Siberia, Russia; arrived 2024-03-05
+
